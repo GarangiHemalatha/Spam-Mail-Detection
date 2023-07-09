@@ -29,5 +29,5 @@ This Model can detect any kind of spam mail. Here i use ML Algorithm.
 
 
 
-Unsupervised Learning: Unsupervised learning is a technique used to find hidden patterns in the data without the need for labelled data. It can be used for anomaly detection, clustering, and association rule mining.
+**Unsupervised Learning:** Unsupervised learning is a technique used to find hidden patterns in the data without the need for labelled data. It can be used for anomaly detection, clustering, and association rule mining.
 
