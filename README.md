@@ -22,7 +22,8 @@ This Model can detect any kind of spam mail. Here i use ML Algorithm.
 
 
 
-![image](https://github.com/GarangiHemalatha/HEMALATHAGARANGI/assets/139039105/0399b117-498a-4be3-8990-cac8634e0cda)
+![image](https://github.com/GarangiHemalatha/HEMALATHAGARANGI/assets/139039105/6097ed41-519e-4218-903b-549cf569d539)
+
 
 
 
