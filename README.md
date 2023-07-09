@@ -11,8 +11,6 @@ This Model can detect any kind of spam mail. Here i use ML Algorithm.
 **Natural Language Processing:** Natural Language Processing (NLP) is a technique that enables machines to understand and process human language. It plays a crucial role in spam detection, as it helps in extracting meaningful features from emails such as subject, body, and attachments.
 
 
-**Text Classification:**Text classification is a supervised learning technique used for spam detection. It involves labelling emails as spam or non-spam based on their features, such as the presence of certain keywords, tone, or grammar.
-
 
 **Feature Engineering:** Feature engineering is the process of selecting relevant features from the email to classify it as spam or non-spam. It involves extracting features such as the sender's email address, the presence of certain words or phrases, and the length of the email.
 
